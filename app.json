@@ -1,0 +1,7 @@
+{
+  "name": "ngoziapps",
+  "displayName": "ngoziapps",
+  "android": {
+    "package": "com.victoriaidunorba.ngoziapps"
+  }
+}
